@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class TravelingSalesmanProblem {
 
 
-    //berikut adalah jarak pada gambar si sales
+    //berikut adalah jarak pada gambar si sales ke main
     private static int[][] distanceMatrix = {
             {0, 10, 15, 20},
             {10, 0, 35, 25},
